@@ -1,9 +1,7 @@
-Perfect 🎉 now let’s make a professional **README.md** for your **FitDesi Buddy** project.
-Here’s polished content you can drop into your repo 👇
 
 ---
 
-# 💪 FitDesi Buddy – Your Fitness & Diet Chatbot 🥗🇮🇳
+# 💪 FitDesi Buddy 🥗
 
 FitDesi Buddy is an AI-powered chatbot built with **Streamlit + Groq API** that helps users achieve their fitness goals by providing personalized **workout** and **diet plans**.
 
@@ -15,7 +13,7 @@ Unlike typical chatbots that suggest boring “oats & salad,” FitDesi Buddy co
 
 * 🏋️ Personalized workout tips (weight loss, muscle gain, healthy lifestyle)
 * 🥗 Diet recommendations tailored to your goal
-* 🇮🇳 **Desi Diet Mode** → Indian meals instead of western food
+*  **Desi Diet Mode** → Indian meals instead of western food
 * 💬 Conversational chat interface built with **Streamlit**
 * ⚡ Powered by **Groq LLaMA-3** for fast AI responses
 
