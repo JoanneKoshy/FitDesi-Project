@@ -1,7 +1,7 @@
 
 ---
 
-# 💪 FitDesi Buddy 🥗
+# FitDesi Buddy 🥗
 
 FitDesi Buddy is an AI-powered chatbot built with **Streamlit + Groq API** that helps users achieve their fitness goals by providing personalized **workout** and **diet plans**.
 
@@ -67,12 +67,6 @@ streamlit run app.py
 
 ---
 
-## 🎥 Demo Preview
-
-(👉 You can add a **GIF or screenshot** of the chatbot here later)
-
----
-
 ## 🌟 Unique Feature – Desi Diet Mode
 
 Instead of “boiled chicken & salad,” FitDesi Buddy gives **authentic Indian diet plans**:
@@ -89,10 +83,3 @@ Pull requests are welcome! If you’d like to add more Indian meal options or en
 
 ---
 
-## 📜 License
-
-This project is open-source under the MIT License.
-
----
-
-👉 Do you want me to also **make a badge-style header (GitHub stars, license, Python version)** at the top of README to make it look more pro?
